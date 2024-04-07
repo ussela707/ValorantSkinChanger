@@ -1,4 +1,4 @@
-## Genereal!
+## General!
 
 - Never been detected by Vanguard
 - Supports Windowed Borderless
